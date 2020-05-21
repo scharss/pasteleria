@@ -168,7 +168,7 @@ function alerta() {
 }
 
 function restear() {
-    location.href = 'https://scharss.github.io/z6/'
+    location.href = 'https://scharss.github.io/pasteleria/'
 
 }
 
